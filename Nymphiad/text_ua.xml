@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text>
+	<intro>
+		<str id="0">Десь в темних лабіринтах під храмом Тітона</str>
+		<str id="1">Загублена німфа шукає шлях до світу сонячного світла</str>
+		<str id="2">Але щоб покинути це прокляте місце треба заплатити</str>
+		<str id="3">Безцінні стигійські оболи можуть купити омріяну свободу</str>
+		<str id="4">Або занапастити юну німфу...</str>
+	</intro>
+	<outro>
+		<str id="0">Цих стигійських оболів достатньо</str>
+		<str id="1">Відкинь свою стару оболонку, маленька німфо</str>
+		<str id="1">Тепер ти можеш покинути проклятий храм Тітона</str>
+		<str id="2">Прощай, хоробра цикадо</str>
+		<str id="3">Твоя справжня подорож тільки починається...</str>
+	</outro>
+	<ui>
+		<str id="play">Грати</str>
+		<str id="options">Налаштування</str>
+		<str id="credits">Титри</str>
+		<str id="resume">Продовжити</str>
+		<str id="restart">Заново</str>
+		<str id="menu">Головне Меню</str>
+		<str id="quit">Вихід</str>
+		<str id="music">Музика</str>
+		<str id="sound">Звук</str>
+		<str id="fullscreen">Весь Екран</str>
+		<str id="language">Мова</str>
+		<str id="run">Режим Бігу</str>
+		<str id="back">Назад</str>
+		<str id="credits_left">Володимир "Wolod" Якубович
+Вікторія Беховець</str>
+		<str id="credits_right">Код, Графіка &amp; Музика
+Графіка</str>
+		<str id="credits_bot">Зроблено в Construct 2
+Muzt Die Studios, Україна, Львів, 2019</str>
+		<str id="on">Так</str>
+		<str id="off">Ні</str>
+		<str id="en">EN</str>
+		<str id="ru">RU</str>
+		<str id="ua">UA</str>
+	</ui>
+</text>

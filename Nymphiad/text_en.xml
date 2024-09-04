@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text>
+	<intro>
+		<str id="0">Somewhere in the dark mazes beneath the temple of Tithonus</str>
+		<str id="1">A lost nymph seeks the way back to the world of daylight</str>
+		<str id="2">But anyone who wants to leave this cursed place must pay a price</str>
+		<str id="3">Precious stygian obols might buy the desired freedom</str>
+		<str id="4">Or lead young nymph to its eventual demise...</str>
+	</intro>
+	<outro>
+		<str id="0">You've collected enough stygian obols to pay a toll</str>
+		<str id="1">Cast away your imperfect form, little nymph</str>
+		<str id="1">You may leave the cursed temple of Tithonus now</str>
+		<str id="2">Farewell, brave cicada</str>
+		<str id="3">Your real journey has just begun...</str>
+	</outro>
+	<ui>
+		<str id="play">Play</str>
+		<str id="options">Options</str>
+		<str id="credits">Credits</str>
+		<str id="resume">Resume</str>
+		<str id="restart">Restart</str>
+		<str id="menu">Main Menu</str>
+		<str id="quit">Quit</str>
+		<str id="music">Music</str>
+		<str id="sound">Sound</str>
+		<str id="fullscreen">Fullscreen</str>
+		<str id="language">Language</str>
+		<str id="run">Always Run</str>
+		<str id="back">Back</str>
+		<str id="credits_left">Volodymyr "Wolod" Yakubovych
+Victoria Bekhovets'</str>
+		<str id="credits_right">Code, Art &amp; Music
+Art</str>
+		<str id="credits_bot">Powered by Construct 2
+Muzt Die Studios, Ukraine, L'viv, 2019</str>
+		<str id="on">On</str>
+		<str id="off">Off</str>
+		<str id="en">EN</str>
+		<str id="ru">RU</str>
+		<str id="ua">UA</str>
+	</ui>
+</text>
